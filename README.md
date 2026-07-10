@@ -4,7 +4,7 @@ This repository contains the projects completed as part of the CodSoft Data Scie
 
 ## Completed Tasks
 
-- ✅ Task 2 – Movie Rating and Prediction (CineRateAI)
+- ✅ Task 2 – Movie Rating Prediction (CineRateAI)
 - ✅ Task 5 – Credit Card Fraud Detection (FraudShield AI)
 
 ## Upcoming Tasks
