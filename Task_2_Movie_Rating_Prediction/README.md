@@ -135,7 +135,7 @@ Select a movie from the dataset to predict its IMDb-style rating. The applicatio
 
 Recommend similar movies using a content-based recommendation system built with TF-IDF Vectorization and Cosine Similarity.
 
-![Movie Recommendation System](images/03_recommendation_system.png)
+![Movie Recommendation System](images/03_recommend_system.png)
 
 ---
 
