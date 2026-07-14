@@ -1,0 +1,45 @@
+{
+    "project_name": "AdIntel",
+    "subtitle": "Intelligent Sales Prediction & Advertising Analytics",
+    "model_name": "Random Forest",
+    "feature_columns": [
+        "TV",
+        "Radio",
+        "Newspaper"
+    ],
+    "target_column": "Sales",
+    "input_ranges": {
+        "TV": {
+            "minimum": 0.7,
+            "maximum": 296.4,
+            "average": 147.0425,
+            "median": 149.75
+        },
+        "Radio": {
+            "minimum": 0.0,
+            "maximum": 49.6,
+            "average": 23.264000000000006,
+            "median": 22.9
+        },
+        "Newspaper": {
+            "minimum": 0.3,
+            "maximum": 114.0,
+            "average": 30.553999999999995,
+            "median": 25.75
+        }
+    },
+    "baseline_scenario": {
+        "TV": 147.0425,
+        "Radio": 23.264000000000006,
+        "Newspaper": 30.553999999999995
+    },
+    "baseline_prediction": 14.026999999999992,
+    "model_metrics": {
+        "cv_rmse": 1.3015404052250497,
+        "test_r2": 0.952844707348761,
+        "test_mae": 0.9214009920634915,
+        "test_rmse": 1.2071248542488062,
+        "test_mape_percent": 7.656257675988057
+    },
+    "disclaimer": "Predictions are based on historical associations and should not be interpreted as guaranteed sales or advertising return on investment."
+}

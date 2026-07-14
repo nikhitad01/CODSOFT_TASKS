@@ -1,0 +1,6 @@
+Priority,Recommendation,Evidence,Caution
+High,Prioritize scenario testing for TV advertising.,TV has the strongest observed linear relationship with sales in the historical dataset.,Correlation does not prove causation or financial return.
+High,Monitor TV closely in forecasting and planning.,The final model relies most heavily on TV among the available predictors.,Model reliance does not establish business causality.
+Medium,Test the 'Increase TV by 20%' scenario in a controlled campaign.,It produced the largest model-predicted increase of 2.80 sales units among the initial scenarios.,Validate the effect through a real-world experiment before scaling spend.
+Medium,Evaluate reallocating budget from Newspaper to TV.,This fixed-budget scenario generated the highest predicted sales of 17.25.,Use a limited pilot because the model does not include profit or campaign quality.
+Review,Review the strategic role of Newspaper advertising.,It has the weakest observed linear relationship with sales in this dataset.,The channel may still contribute through brand awareness or interactions not captured by the dataset.

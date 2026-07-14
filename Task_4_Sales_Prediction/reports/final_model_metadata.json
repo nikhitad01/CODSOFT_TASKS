@@ -1,0 +1,27 @@
+{
+    "project_name": "AdIntel",
+    "model_name": "Random Forest",
+    "feature_columns": [
+        "TV",
+        "Radio",
+        "Newspaper"
+    ],
+    "target_column": "Sales",
+    "selection_metric": "Five-fold CV RMSE",
+    "cv_mean_rmse": 1.3015404052250497,
+    "cv_mean_r2": 0.932767936098333,
+    "test_r2": 0.952844707348761,
+    "test_mae": 0.9214009920634915,
+    "test_rmse": 1.2071248542488062,
+    "test_mape_percent": 7.656257675988057,
+    "generalization_gap_r2": 0.03852349649222997,
+    "best_parameters": {
+        "max_depth": 10,
+        "max_features": 1.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 100
+    },
+    "random_state": 42,
+    "cross_validation_folds": 5
+}

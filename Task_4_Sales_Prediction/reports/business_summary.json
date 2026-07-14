@@ -1,0 +1,19 @@
+{
+    "strongest_correlation_channel": "TV",
+    "weakest_correlation_channel": "Newspaper",
+    "best_increase_scenario": {
+        "scenario": "Increase TV by 20%",
+        "predicted_sales": 16.829696428571424,
+        "sales_change": 2.8026964285714318,
+        "sales_change_percent": 19.98072594689836
+    },
+    "best_reallocation_scenario": {
+        "reallocation": "Newspaper \u2192 TV",
+        "predicted_sales": 17.246496428571433,
+        "sales_change": 3.219496428571441,
+        "sales_change_percent": 22.95213822322266
+    },
+    "baseline_prediction": 14.026999999999992,
+    "baseline_total_budget": 200.8605,
+    "strongest_model_channel": "TV"
+}

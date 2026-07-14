@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.streamlit/secrets.toml
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large fraud-detection datasets
+Task_5_Credit_Card_Fraud_Detection/data/raw/
+Task_5_Credit_Card_Fraud_Detection/data/processed/X_train_scaled.csv
+Task_5_Credit_Card_Fraud_Detection/data/processed/X_test_scaled.csv
+Task_5_Credit_Card_Fraud_Detection/data/processed/X_train_smote.csv
+Task_5_Credit_Card_Fraud_Detection/data/processed/y_train.csv
+Task_5_Credit_Card_Fraud_Detection/data/processed/y_test.csv
+Task_5_Credit_Card_Fraud_Detection/data/processed/y_train_smote.csv
