@@ -1,18 +1,6 @@
 # 📊 AdIntel – Advertising Sales Prediction & Business Intelligence Dashboard
 
 > **An end-to-end Machine Learning application that predicts product sales from advertising budgets and transforms predictions into actionable business insights through an interactive Streamlit dashboard.**
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Visualizations-purple?logo=plotly)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
-
-</p>
-
 ---
 
 # 🌟 Project Overview
